@@ -1,0 +1,1 @@
+# Detecting-The-Category-of-Foliar-Diseases-in-AppleTrees
