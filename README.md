@@ -1,1 +1,3 @@
 # Detecting-The-Category-of-Foliar-Diseases-in-AppleTrees
+
+Abstract—Plant  leaf  diseases  and  harmful  insects  are  signifi-cant  challenges  in  front  of  the  peasants.  Efficient  and  accurateprediction  of  leaf  diseases  in  crops  could  help  farmers  in  earlytreatment. Artificial intelligence has emerged as a revolutionaryalternative   for   detecting   these   diseases   in   early   stages.   Thisproject  aims  to  train  models  which  can  accurately  distinguishbetween  healthy  and  infected  leaf  with  specific  disease  cate-gory.  Various  Machine  learning  /  deep  learning  techniques  LikeNuSVM,  deep  convolutional  neural  networks  such  as  Res  Net,Dense  Net,  etc.  have  been  used  for  this  purpose.
